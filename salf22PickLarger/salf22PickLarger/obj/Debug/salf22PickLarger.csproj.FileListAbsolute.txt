@@ -1,0 +1,15 @@
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\bin\Debug\salf22PickLarger.exe.config
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\bin\Debug\salf22PickLarger.exe
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\bin\Debug\salf22PickLarger.pdb
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\obj\Debug\salf22PickLarger.csprojResolveAssemblyReference.cache
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\obj\Debug\MainWindow.g.cs
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\obj\Debug\App.g.cs
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\obj\Debug\salf22PickLarger_MarkupCompile.cache
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\obj\Debug\salf22PickLarger_MarkupCompile.lref
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\obj\Debug\MainWindow.baml
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\obj\Debug\salf22PickLarger.g.resources
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\obj\Debug\salf22PickLarger.Properties.Resources.resources
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\obj\Debug\salf22PickLarger.csproj.GenerateResource.Cache
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\obj\Debug\salf22PickLarger.csproj.CoreCompileInputs.cache
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\obj\Debug\salf22PickLarger.exe
+C:\Users\Spencer Laird\Documents\4400Chapter1\salf22PickLarger\salf22PickLarger\salf22PickLarger\obj\Debug\salf22PickLarger.pdb
